@@ -21,7 +21,7 @@ A Python project for generating and taking quizzes using AI and a modern Tkinter
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/ai-quiz-generator.git
+    git clone https://github.com/ItzSilicon/ai-quiz-generator.git
     cd ai-quiz-generator
     ```
 
