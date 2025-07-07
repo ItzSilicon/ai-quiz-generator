@@ -13,7 +13,19 @@ except FileNotFoundError:
 
     
 try:
-    quiz_name, resource, input_content ,prompt = generator.get_info()
-    generator.generate_questions(quiz_name, resource, input_content, prompt)
+    while 1:
+        quiz_name, resource, input_content ,prompt = generator.get_info()
+        print(f"Quiz Name: {quiz_name}\nResource: {resource}\nInput Content: {input_content}\nPrompt: {prompt}")
+        print("Are you sure you want to generate questions with these details? (yes/no)")
+        if input().strip().lower() != 'yes':
+            print("Exiting without generating questions.")
+            continue
+        else:
+            generator.generate_questions(api_key, quiz_name, resource, input_content, prompt)
+            print("Do you want to generate another quiz? (yes/no)")
+            if input().strip().lower() != 'no':
+                continue
+            else:
+                break
 except Exception as e:
     print(f"An error occurred: {e}")
