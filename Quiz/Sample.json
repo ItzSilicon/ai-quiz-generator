@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is 1 + 1?",
+    "Choices": [
+      "A. 3",
+      "B. 2",
+      "C. 1",
+      "D. 4"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What color is the sky on a sunny day?",
+    "Choices": [
+      "A. Red",
+      "B. Green",
+      "C. Blue",
+      "D. Yellow"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "How many fingers do most humans have on one hand?",
+    "Choices": [
+      "A. One",
+      "B. Ten",
+      "C. Five",
+      "D. Zero"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which animal says 'moo'?",
+    "Choices": [
+      "A. Dog",
+      "B. Cat",
+      "C. Cow",
+      "D. Bird"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Is water wet?",
+    "Choices": [
+      "A. Yes",
+      "B. No",
+      "C. Sometimes",
+      "D. Only on Tuesdays"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What shape is a standard ball?",
+    "Choices": [
+      "A. Square",
+      "B. Triangle",
+      "C. Circle",
+      "D. Star"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which season comes after spring?",
+    "Choices": [
+      "A. Winter",
+      "B. Autumn",
+      "C. Summer",
+      "D. Fall"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "What do you use to write?",
+    "Choices": [
+      "A. Spoon",
+      "B. Fork",
+      "C. Pen",
+      "D. Shoe"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Is the sun hot or cold?",
+    "Choices": [
+      "A. Cold",
+      "B. Warm",
+      "C. Freezing",
+      "D. Hot"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "Which number comes after 2?",
+    "Choices": [
+      "A. 1",
+      "B. 4",
+      "C. 3",
+      "D. 5"
+    ],
+    "answer": "C"
+  }
+]
