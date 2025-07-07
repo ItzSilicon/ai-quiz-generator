@@ -128,5 +128,5 @@ def generate_questions(api_key, name, resource, input_content, prompt):
             }
         )
     print("Questions generated successfully!")
-    with open(f"./Quizes/{name}.json", "w",encoding="UTF-8") as f:
+    with open(f"./Quiz/{name}.json", "w",encoding="UTF-8") as f:
         f.write(response.text)

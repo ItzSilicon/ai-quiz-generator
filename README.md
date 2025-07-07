@@ -21,7 +21,7 @@ A Python project for generating and taking quizzes using AI and a modern Tkinter
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/ItzSilicon/ai-quiz-generator.git
+    git clone https://github.com/yourusername/ai-quiz-generator.git
     cd ai-quiz-generator
     ```
 
@@ -45,7 +45,7 @@ python generator_main.py
 ```
 
 - Follow the prompts to enter quiz name, select resource, and set quiz parameters.
-- The generated quiz will be saved as a `.json` file in the `./Quizes` directory.
+- The generated quiz will be saved as a `.json` file in the `./Quiz` directory.
 
 ### 2. Take a Quiz
 
@@ -70,7 +70,7 @@ AI Quiz Generator/
 ├── generator_main.py
 ├── generator.py
 ├── quiz_gui.py
-├── Quizes/
+├── Quiz/
 │   └── (your .json quiz files)
 ├── Quiz_Summaries/
 │   └── (auto-saved summaries)
@@ -80,7 +80,7 @@ AI Quiz Generator/
 
 ## Notes
 
-- Make sure your quiz files are in the `./Quizes` directory.
+- Make sure your quiz files are in the `./Quiz` directory.
 - The project supports high-DPI screens and multiple languages.
 - For best results, use clear and concise source material when generating quizzes.
 

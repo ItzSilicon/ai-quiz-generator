@@ -17,7 +17,7 @@ except Exception:
     except Exception:
         pass
 
-QUIZ_DIR = "./Quizes"
+QUIZ_DIR = "./Quiz"
 
 def get_quiz_files():
     return [f for f in os.listdir(QUIZ_DIR) if f.endswith(".json")]
