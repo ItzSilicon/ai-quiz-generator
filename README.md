@@ -1,4 +1,6 @@
 # AI Quiz Generator
+<img width="600" alt="Snipaste_2025-07-07_16-13-32" src="https://github.com/user-attachments/assets/7990dc88-fc13-45cd-9a96-3eff6267adfe" />
+<img width="451" alt="Snipaste_2025-07-07_16-14-14" src="https://github.com/user-attachments/assets/fec54014-71c0-486d-9a9b-11dce6de39d8" />
 
 A Python-based application for generating and taking quizzes using AI, featuring a modern Tkinter GUI.
 
