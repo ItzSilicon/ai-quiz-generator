@@ -35,7 +35,7 @@ A Python-based application for generating and taking quizzes using AI, featuring
   1. **Quiz Name:** Enter a name for your quiz.
   2. **Resource Selection:** Choose whether to use a PDF file or input text as your quiz source.
   3. **Input Content:** Provide the path to your PDF or text file.
-  4. **Prompt (Optional):** You may be asked to enter a custom prompt or additional instructions for the AI.
+  4. **Prompt:** You will be asked to enter a prompt instructions for the AI.
 - Review the quiz details shown in the console. Confirm by typing `yes` to proceed, or any other input to cancel and start over.
 - The application will generate quiz questions using the Google Gemini API and save the quiz as a `.json` file in the `Quiz` folder.
 - After completion, you can choose to generate another quiz or exit the program.
