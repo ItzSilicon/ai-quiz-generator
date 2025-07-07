@@ -1,0 +1,72 @@
+Score: 7 / 10
+
+Q1: What is 1 + 1?
+    A. 3
+    B. 2 ← Your choice (Correct)
+    C. 1
+    D. 4
+✔️ Correct
+
+Q2: What color is the sky on a sunny day?
+    A. Red
+    B. Green
+    C. Blue ← Your choice (Correct)
+    D. Yellow
+✔️ Correct
+
+Q3: Which season comes after spring?
+    A. Winter
+    B. Autumn
+    C. Summer ← Your choice (Correct)
+    D. Fall
+✔️ Correct
+
+Q4: What shape is a standard ball?
+    A. Square
+    B. Triangle
+    C. Circle (Correct)
+    D. Star ← Your choice
+❌ Wrong
+
+Q5: What do you use to write?
+    A. Spoon
+    B. Fork
+    C. Pen (Correct)
+    D. Shoe
+❌ Wrong
+
+Q6: Which number comes after 2?
+    A. 1
+    B. 4
+    C. 3 ← Your choice (Correct)
+    D. 5
+✔️ Correct
+
+Q7: Which animal says 'moo'?
+    A. Dog
+    B. Cat
+    C. Cow ← Your choice (Correct)
+    D. Bird
+✔️ Correct
+
+Q8: Is the sun hot or cold?
+    A. Cold
+    B. Warm ← Your choice
+    C. Freezing
+    D. Hot (Correct)
+❌ Wrong
+
+Q9: Is water wet?
+    A. Yes ← Your choice (Correct)
+    B. No
+    C. Sometimes
+    D. Only on Tuesdays
+✔️ Correct
+
+Q10: How many fingers do most humans have on one hand?
+    A. One
+    B. Ten
+    C. Five ← Your choice (Correct)
+    D. Zero
+✔️ Correct
+
